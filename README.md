@@ -29,6 +29,8 @@
 
 Provide a nice way to apply a gradient on top of some HTMLElements.
 
+[![View demo](http://components.coffeekraken.io/assets/img/view-demo.png)](http://components.coffeekraken.io/app/s-gradient-component)
+
 ## Table of content
 
 1. **[Demo](http://components.coffeekraken.io/app/s-gradient-component)**

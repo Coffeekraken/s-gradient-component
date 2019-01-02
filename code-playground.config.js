@@ -63,7 +63,6 @@ module.exports = {
     js: {
       language: 'js',
       data: `
-        import 'webcomponents.js/webcomponents-lite'
         import SGradientComponent from './dist/index'
       `
     }
